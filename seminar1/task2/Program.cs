@@ -5,7 +5,6 @@ int squad = Convert.ToInt32(Console.ReadLine());
 if ( squad == number*number||number == squad*squad )
 {
    Console.WriteLine("Correct "); 
-   Console.Write() 
 }
 else
 {
